@@ -3,7 +3,8 @@
 
 ## 非平台类
 ### 2019年
-* [江南文化艺术节(制作中)](https://wxzt.subaonet.com/h5/2019/jiangnanArtFestival/)
+* [中秋之月 圆的一笔](https://wxzt.subaonet.com/h5/2019/midAutumnDay)
+* [江南文化艺术节](https://wxzt.subaonet.com/h5/2019/jiangnanArtFestival/)
 * [市情体验人才专线](https://wxzt.subaonet.com/h5/2019/urbanTourism/)
 * [测测你可以在苏州日报做什么](https://wxzt.subaonet.com/h5/2019/subao70AnniversaryTest/)
 * [苏州解放70周年知识竞答，测测你能得几分](https://wxzt.subaonet.com/h5/2019/70AnniOfSuzhouLiberation/)
@@ -23,7 +24,7 @@
 * [2018第五届“创青春”全国赛邀你来战](https://wxzt.subaonet.com/h5/2018/youthEntrepreneurship/)
 * [苏州大米是怎么种出来的](https://wxzt.subaonet.com/h5/2018/suzhouRiceProcess/)
 * [中海·免费夹月饼，一玩就上瘾](https://wxzt.subaonet.com/h5/2018/graspingMooncake_static/)
-* [苏报定制 苏报融媒爆款产品推介](https://wxzt.subaonet.com/2018/sbdz/index.aspx)
+* [苏报定制 苏报融媒爆款产品推介](https://wxzt.subaonet.com/h5/2018/ourWorks/)
 * [解放思想大讨论，苏州进行时](https://wxzt.subaonet.com/h5/2018/mindDiscuss/)
 * [世界杯的冠军，竟然内定了…](https://wxzt.subaonet.com/h5/2018/worldCupGuess/)
 * [唐伯虎抓秋香，越抓越嗨森](https://wxzt.subaonet.com/h5/2018/graspingDolls/api/login)
