@@ -3,6 +3,8 @@
 
 ## 非平台类
 ### 2019年
+* [同升国旗 同唱国歌](http://wxhd.subaonet.com/2019/sq/index.htm)
+* [我的苏州70年](https://wxzt.subaonet.com/h5/2019/nationalDay70Anni/)
 * [中秋之月 圆的一笔](https://wxzt.subaonet.com/h5/2019/midAutumnDay)
 * [江南文化艺术节](https://wxzt.subaonet.com/h5/2019/jiangnanArtFestival/)
 * [市情体验人才专线](https://wxzt.subaonet.com/h5/2019/urbanTourism/)
