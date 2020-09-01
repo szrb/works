@@ -7,6 +7,8 @@
 * [开放再出发——苏州自贸片区一周年巡游记(限微信端)](https://wxzt.subaonet.com/h5/2020/FTZ_Anniversary/)
 * [“三大法宝”沉浸式实境教学线上打卡(限微信端)](https://wxzt.subaonet.com/h5/2020/travelRoutePunch/client/api/login)
 * [实境云课学法宝(限微信端)](https://wxzt.subaonet.com/h5/2020/partyVideoAnswer/client/api/login)
+* [材料科学姑苏实验室](https://wxzt.subaonet.com/h5/2020/gssys/)
+* [猜灯谜赛龙舟--云游点亮姑苏八城门](https://wxzt.subaonet.com/2020/dlbcm/)
 * [扔垃圾的正确姿势，你GET到了吗？(2020版)](https://wxzt.subaonet.com/h5/2020/refuseSorting/)
 * [“云”逛绣丽金阊](https://wxzt.subaonet.com/h5/2020/suzhouFolkFestival/)
 * [寻找苏州创新标杆](https://wxzt.subaonet.com/h5/2020/unicorn/)
