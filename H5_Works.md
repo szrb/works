@@ -2,9 +2,26 @@
 (时间倒序排列)
 
 ## 非平台类
+### 2021年
+* [党史学习教育沉浸式主题党日实境课程](https://wxzt.subaonet.com/h5/2021/partyRedLines/)
+* [苏报沪行——顺吴淞江去海上](https://wxzt.subaonet.com/h5/2021/sbhx/)
+* [履行健康公约，争做健康市民(限微信端)](https://wxzt.subaonet.com/h5/2021/healthKnowledgeCompetition/client/api/login)
+* [实境云课学党史(限微信端)](https://wxzt.subaonet.com/h5/2021/partyVideoAnswer/client/api/login)
+* [红色云博展厅(限微信端)](https://wxzt.subaonet.com/h5/2021/fourHistoryMuseum/client/api/login)
+* [38楼全视野 我的新闻你代言](https://wxzt.subaonet.com/h5/2021/xwdy/)
+* [寻运河记忆 展时代新颜](https://wxzt.subaonet.com/h5/2021/yhrj/)
+* [2020年度 苏州市夜间文旅消费十大集聚区](https://wxzt.subaonet.com/h5/2021/gushu/)
+* [苏州和家乡一起牛！](https://wxzt.subaonet.com/h5/2020/lsgn/)
+* [接住苏惠保！有惊喜！](https://wxzt.subaonet.com/h5/2021/shbCatchGold/)
+
 ### 2020年
+* [“药”学法普法有奖竞答(限微信端)](https://wxzt.subaonet.com/h5/2020/drugLawAnswer/client/api/login)
+* [全面建成小康社会知识竞赛(限微信端)](https://wxzt.subaonet.com/h5/2020/partyHistoryAnswer/client/api/login)
+* [《苏州市精神卫生条例》知多少(限微信端)](https://wxzt.subaonet.com/h5/2020/mentalHealth/client/api/login)
 * [月圆之夜，决战新闻大厦之巅(限微信端)](https://wxzt.subaonet.com/h5/2020/midAutumnTapLike/client/api/login)
 * [苏报中秋诗词大会(2021年中秋预定)](https://wxzt.subaonet.com/h5/2020/midAutumnPoetry/)
+* [白洋湾云上山歌会](https://wxzt.subaonet.com/2020/bhsgx)
+* [石湖串月——云端逐月点亮石湖](https://wxzt.subaonet.com/2020/shcy)
 * [珍惜食物 拒绝浪费](https://wxzt.subaonet.com/h5/2020/clearYourPlate/)
 * [开放再出发——苏州自贸片区一周年巡游记(限微信端)](https://wxzt.subaonet.com/h5/2020/FTZ_Anniversary/)
 * [“三大法宝”沉浸式实境教学线上打卡(限微信端)](https://wxzt.subaonet.com/h5/2020/travelRoutePunch/client/api/login)
