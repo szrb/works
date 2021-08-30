@@ -3,6 +3,8 @@
 
 ## 非平台类
 ### 2021年
+* [姑苏晚报10000期，爱拼就会赢！(限微信端)](https://wxzt.subaonet.com/h5/2021/eveningPaperPuzzle)
+* [走向复兴——红星照耀下的苏城100年简史](https://wxzt.subaonet.com/h5/2021/suzhouRenaissance/)
 * [党史学习教育沉浸式主题党日实境课程](https://wxzt.subaonet.com/h5/2021/partyRedLines/)
 * [苏报沪行——顺吴淞江去海上](https://wxzt.subaonet.com/h5/2021/sbhx/)
 * [履行健康公约，争做健康市民(限微信端)](https://wxzt.subaonet.com/h5/2021/healthKnowledgeCompetition/client/api/login)
