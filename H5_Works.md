@@ -3,6 +3,8 @@
 
 ## 非平台类
 ### 2021年
+* [数读苏州这五年](https://wxzt.subaonet.com/h5/2021/13ddh)
+* [我们走在大路上——苏州历次党代会回眸(未发布)](https://wxzt.subaonet.com/h5/2021/partyCongressesInSuzhou)
 * [姑苏晚报10000期，爱拼就会赢！(限微信端)](https://wxzt.subaonet.com/h5/2021/eveningPaperPuzzle)
 * [走向复兴——红星照耀下的苏城100年简史](https://wxzt.subaonet.com/h5/2021/suzhouRenaissance/)
 * [党史学习教育沉浸式主题党日实境课程](https://wxzt.subaonet.com/h5/2021/partyRedLines/)
@@ -11,6 +13,7 @@
 * [实境云课学党史(限微信端)](https://wxzt.subaonet.com/h5/2021/partyVideoAnswer/client/api/login)
 * [红色云博展厅(限微信端)](https://wxzt.subaonet.com/h5/2021/fourHistoryMuseum/client/api/login)
 * [38楼全视野 我的新闻你代言](https://wxzt.subaonet.com/h5/2021/xwdy/)
+* [运河十景苏州故事](https://wxzt.subaonet.com/h5/2021/yhsj/)
 * [寻运河记忆 展时代新颜](https://wxzt.subaonet.com/h5/2021/yhrj/)
 * [2020年度 苏州市夜间文旅消费十大集聚区](https://wxzt.subaonet.com/h5/2021/gushu/)
 * [苏州和家乡一起牛！](https://wxzt.subaonet.com/h5/2020/lsgn/)
