@@ -5,7 +5,7 @@
 ### 2021年
 * [戴无恙——给你的头像戴个口罩吧(限微信端)](https://wxzt.subaonet.com/h5/2021/avatarMask/client/api/login)
 * [鸟的天堂](https://wxzt.subaonet.com/h5/2021/theYangtseRiver/)
-* [苏州市十年禁渔知识问答](https://wxzt.subaonet.com/h5/2021/noFishing/)
+* [苏州市十年禁渔知识问答](https://wxzt.subaonet.com/h5/2021/noFishing/one/)
 * [鱼米之乡 起于百村](https://wxzt.subaonet.com/h5/2021/runCountry/)
 * [把张家港寄给ta](https://wxzt.subaonet.com/h5/2021/letterFromZJG/client/send)
 * [献礼建党百年！苏州日报七一特刊 《走向复兴》](https://wxzt.subaonet.com/h5/2021/papersForPartyCentenary)
